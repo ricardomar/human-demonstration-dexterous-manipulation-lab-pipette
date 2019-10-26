@@ -33,8 +33,8 @@ Robotic platforms performing the dexterous manipulation of a laboratpry pipette.
 
 [![alt text](https://img.youtube.com/vi/XSw5QVdzGW4/0.jpg)](https://youtu.be/XSw5QVdzGW4)
 
-[Demo video 04](https://youtu.be/https://youtu.be/KJybBorZjH0):
+[Demo video 04](https://youtu.be/XSw5QVdzGW4):
 
-[![alt text](https://img.youtube.com/vi/https://youtu.be/KJybBorZjH0/0.jpg)](https://youtu.be/https://youtu.be/KJybBorZjH0)
+[![alt text](https://img.youtube.com/vi/XSw5QVdzGW4/0.jpg)](https://youtu.be/XSw5QVdzGW4)
 
 
